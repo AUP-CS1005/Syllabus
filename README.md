@@ -24,21 +24,6 @@ We will also cover the basics of JavaScript.
   * http://www.w3schools.com/
   * http://getbootstrap.com/css
 
-### Course Outline and Material
-
-1. 5/9/2017
-
-  * **Topics**
-
-    * Administration
-    * File systems
-    * Text editors
-    * Programming
-
-  * **Resources**
-
-    * [Slides](https://github.com/AUP-CS1005/slides1/blob/master/slides.pdf)
-
 ### Attendance Policy
 Attendance is mandatory in all classes and attendance affects the grade. In case of three unexcused absents, a grade of "F" is automatically given.
 
