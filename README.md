@@ -40,7 +40,7 @@ We will also cover the basics of JavaScript.
     * [Slides](https://github.com/AUP-CS1005/slides1/blob/master/slides.pdf)
 
 ### Attendance Policy
-Attendance is mandatory in all classes and attendance affects the grade. In case of three unexcused absents, a grade of F is automatically given.
+Attendance is mandatory in all classes and attendance affects the grade. In case of three unexcused absents, a grade of "F" is automatically given.
 
 
 IN ALL CASES OF MISSED COURSE MEETINGS, THE RESPONSIBILITY FOR
