@@ -5,7 +5,7 @@
 * **Course Number:** CS1005
 * **Professor:** Tomer Libal
 * **Office:** SD-09
-* **Office Hours:** By appointment
+* **Office Hours:** By appointment on [Calendly](https://calendly.com/tlibal)
 * **Class Schedule:** Tue 13:45-15:05
 * **Credits:** 2
 
