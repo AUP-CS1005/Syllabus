@@ -1,5 +1,5 @@
 ![The American University of Paris](https://upload.wikimedia.org/wikipedia/en/4/4c/American_University_of_Paris.png)
-# Syllabus Spring 2018
+# Syllabus Spring 2019
 ## Intro to Web Authoring
 
 * **Course Number:** CS1005
