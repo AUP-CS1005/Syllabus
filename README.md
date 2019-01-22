@@ -1,12 +1,12 @@
 ![The American University of Paris](https://upload.wikimedia.org/wikipedia/en/4/4c/American_University_of_Paris.png)
-# Syllabus Fall 2017
+# Syllabus Spring 2018
 ## Intro to Web Authoring
 
 * **Course Number:** CS1005
 * **Professor:** Tomer Libal
 * **Office:** SD-09
-* **Office Hours:** By appointment on [Calendly](https://calendly.com/tlibal)
-* **Class Schedule:** Tue 13:45-15:05
+* **Office Hours:** By appointment on Slack
+* **Class Schedule:** Wed 13:45-15:05
 * **Credits:** 2
 
 ### Course Description
@@ -18,11 +18,34 @@ We will also cover the basics of JavaScript.
 
 * **Text book:**
   * None is required.
-  * Among resources, there is Jennifer Niederst Robbins - Learning Web Design
-  (ebook available in AUP library)
-* **Online:**
-  * http://www.w3schools.com/
-  * http://getbootstrap.com/css
+
+### Schedule
+
+**Week I** Introduction to HTML
+
+**Week II** Codepen, HTML
+
+**Week III** Images, CSS
+
+**Week IV** Links, CSS files
+
+**Week V** Developer tools, Selectors
+
+**Week VI** Flexbox
+
+**Week VII** Midterm exam
+
+**Week VIII** The grid
+
+**Week IX** Frameworks
+
+**Week X** Bootstrap 1
+
+**Week XI** Bootstrap 2
+
+**Week XII** Bootstrap 3
+
+**Week XIII** Javascript
 
 ### Attendance Policy
 Attendance is mandatory in all classes and attendance affects the grade. In case of three unexcused absents, a grade of "F" is automatically given.
@@ -44,9 +67,8 @@ arrangements, and especially during the Drop/Add and Exam Periods.
 
 ### Grading Policy
 * 10% midterm
-* 20% participation and attendance
-* 30% exercises
-* 40% project
+* 40% exercises
+* 50% project
 
 ### Learning Outcome
 Students are expected to learn how to develop software and content using a computer by using the HTML/CSS markup languages. In addition, they will learn the use of frameworks in order to improve the result. Some very basic programming in JavaScript will also be covered.
